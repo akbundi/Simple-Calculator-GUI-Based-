@@ -7,10 +7,10 @@
     <img src="assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple GUI Calculator</h3>
+  <h3 align="center">Simple Calculator GUI Based</h3>
 
   <p align="center">
-    A lightweight and intuitive calculator application built with C++ and powered by the SFML library.
+    I have built lightweight and intuitive calculator application built with C++ and powered by the SFML library.
     <br />
     Perform basic arithmetic operations with a sleek, user-friendly interface.
     <br />
